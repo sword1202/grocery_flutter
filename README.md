@@ -7,7 +7,7 @@ The grocery app is a design implementation of [Grocery App](https://dribbble.com
 This project relied on this [Flutter Getx Template](https://github.com/EmadBeltaje/flutter_getx_template) made by [Emad Beltaje](https://github.com/EmadBeltaje).
 
 ## Demo of the application 🎥
-![Flutter Grocery App Demo](https://github.com/AbdQader/flutter_grocery_app/assets/64075836/173268d3-ad71-49dd-96a4-d63c8b15e1a9)
+![Flutter Grocery App Demo](https://github.com/sword1202/grocery_flutter/blob/master/demo.gif)
 
 ---
 
@@ -15,17 +15,17 @@ This project relied on this [Flutter Getx Template](https://github.com/EmadBelta
 
 ### Splash & Intro Screens
 
-![Splash&Intro](https://github.com/AbdQader/flutter_grocery_app/assets/64075836/d398ec0c-db18-417e-ad8f-a403d8a76113)
+![Splash&Intro](https://github.com/sword1202/grocery_flutter/blob/master/splash_intro.jpg)
 
 ---
 ### Home & Category Products Screens
 
-![Home&Products](https://github.com/AbdQader/flutter_grocery_app/assets/64075836/fd98636b-4a5d-406d-9156-2bb79826d2a0)
+![Home&Products](https://github.com/sword1202/grocery_flutter/blob/master/home_category.jpg)
 
 ---
 ### Product Details & Cart Screens
 
-![ProductDetails&Cart](https://github.com/AbdQader/flutter_grocery_app/assets/64075836/ad41d1c1-14e6-453c-bb4e-a904ca194fa8)
+![ProductDetails&Cart](https://github.com/sword1202/grocery_flutter/blob/master/product_details.jpg)
 
 ---
 
@@ -59,4 +59,4 @@ The Flutter Grocery UI is a visually captivating and fully functional User Inter
 ## Don't forget to :star: the repository.
 
 ## Support ❤️
-For support, you can contact me at this [Email](mailto:abd8alqader@gmail.com) or at [Facebook](https://www.facebook.com/aasharef/).
+For support, you can contact me at this [Email](mailto:payoneermap1202@gmail.com) or at [Telegram](t.me/@sword1202).
